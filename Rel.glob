@@ -1,0 +1,36 @@
+DIGEST 48e2f77082e04a7e78f8daa3866fc23a
+FLF.Rel
+R687:693 LF.IndProp <> <> lib
+def 970:977 <> relation
+R993:996 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R998:1001 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R997:997 LF.Rel <> X var
+R992:992 LF.Rel <> X var
+R1709:1710 Coq.Init.Peano <> le ind
+R1861:1864 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R1868:1871 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R1865:1867 Coq.Init.Datatypes <> nat ind
+R1858:1860 Coq.Init.Datatypes <> nat ind
+R1853:1854 Coq.Init.Peano <> le ind
+R1889:1896 LF.Rel <> relation def
+R1898:1900 Coq.Init.Datatypes <> nat ind
+R1884:1885 Coq.Init.Peano <> le ind
+def 2938:2953 <> partial_function
+R2969:2976 LF.Rel <> relation def
+R2978:2978 LF.Rel <> X var
+R3003:3003 LF.Rel <> X var
+R3012:3015 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R3022:3025 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R3028:3030 Coq.Init.Logic <> :type_scope:x_'='_x not
+R3026:3027 LF.Rel <> y1 var
+R3031:3032 LF.Rel <> y2 var
+R3016:3016 LF.Rel <> R var
+R3020:3021 LF.Rel <> y2 var
+R3018:3018 LF.Rel <> x var
+R3006:3006 LF.Rel <> R var
+R3010:3011 LF.Rel <> y1 var
+R3008:3008 LF.Rel <> x var
+R3130:3137 LF.IndProp <> next_nat ind
+R3248:3255 LF.Rel <> relation def
+R3257:3259 Coq.Init.Datatypes <> nat ind
+R3237:3244 LF.IndProp <> next_nat ind
